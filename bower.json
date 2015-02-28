@@ -1,6 +1,9 @@
 {
 	"name": "testing-rb",
 	"version": "1.0.0",
+	"main": [
+		"css/styles.css"
+	],
 	"ignore": [
 		".jshintrc",
 		"**/*.txt"
